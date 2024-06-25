@@ -4,10 +4,10 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "runtime": "UNSPECIFIED",
+    "runtime": "sss",
     "numReplicas": 1,
-    "sleepApplication": false,
-    "restartPolicyType": "ON_FAILURE",
+    "sleepApplication": null,
+    "restartPolicyType": "ON_FAILUREzzz",
     "restartPolicyMaxRetries": 10
   }
 }
